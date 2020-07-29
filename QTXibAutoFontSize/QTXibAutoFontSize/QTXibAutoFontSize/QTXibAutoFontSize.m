@@ -7,7 +7,7 @@
 //
 
 
-#import "XibAutoFontSize.h"
+#import "QTXibAutoFontSize.h"
 #import <objc/runtime.h>
 
 #define AutoFontSizeOffWidth [UIScreen mainScreen].bounds.size.width / 375
