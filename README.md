@@ -1,0 +1,2 @@
+# QTXibAutoFontSize
+可以让XIB中带文本的控件字体大小随屏幕大小自动调整
